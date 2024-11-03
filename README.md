@@ -19,5 +19,3 @@ I'm a beginner exploring the world of technology and coding, always eager to lea
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiaaara&show_icons=true&theme=tokyonight)
-
-Thanks for visiting! Let's build something amazing together 🚀✨
